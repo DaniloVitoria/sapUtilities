@@ -6,17 +6,32 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"Dados Mestres\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Entry  ",
+      "color": {
+        "a": 1,
+        "rgb": 8039935
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.01875,
+  "lineSizeMultiplier": 1.12083333333333,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 0.572916666666667,
+  "repelStrength": 12.6041666666667,
   "linkStrength": 1,
-  "linkDistance": 250,
+  "linkDistance": 199,
   "scale": 1,
   "close": true
 }

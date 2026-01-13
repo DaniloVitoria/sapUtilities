@@ -8,27 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d367951f3e3335d2",
+            "id": "23566e79be643f7a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Mapa mental.canvas",
+                "viewState": {
+                  "x": 774.4961005511188,
+                  "y": -1422.0778457182219,
+                  "zoom": -1
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Mapa mental"
+            }
+          },
+          {
+            "id": "2007a74c6491795a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Entry/Modulo FI-CA (Arrecadação e cobrança).md",
+                "file": "Dados Mestres/Classificação de dados mestres.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modulo FI-CA (Arrecadação e cobrança)"
-            }
-          },
-          {
-            "id": "23566e79be643f7a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Classificação de dados mestres"
             }
           },
           {
@@ -51,16 +58,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dados Mestres/Classificação de dados mestres.md",
+                "file": "Entry/Modulo FI-CA (Arrecadação e cobrança).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Classificação de dados mestres"
+              "title": "Modulo FI-CA (Arrecadação e cobrança)"
+            }
+          },
+          {
+            "id": "9e1f14b4104a3aba",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Mapa mental.canvas",
+                "viewState": {
+                  "x": 1079.6155231272464,
+                  "y": -1067.7238702095806,
+                  "zoom": -1.6247452172335626
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Mapa mental"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -133,6 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dados Mestres/Dados mestres.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +167,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Dados mestres"
             }
           },
           {
@@ -151,11 +176,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dados Mestres/Dados mestres.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Dados mestres"
             }
           },
           {
@@ -193,12 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Dados Mestres/Dados mestres.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Dados mestres"
             }
           }
         ]
@@ -219,13 +246,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "23566e79be643f7a",
+  "active": "9e1f14b4104a3aba",
   "lastOpenFiles": [
-    "Dados Mestres/Dados mestres.md",
-    "Dados Mestres/Classificação de dados mestres.md",
-    "WhatsApp Image 2026-01-12 at 20.44.00 (1).jpeg",
-    "Entry/Modulos do Sap.md",
     "Entry/Modulo FI-CA (Arrecadação e cobrança).md",
+    "Entry/Modulos do Sap.md",
+    "Mapa mental.canvas",
+    "Dados Mestres/Dados mestres.md",
+    "WhatsApp Image 2026-01-12 at 20.43.58 (2) 1.jpeg",
+    "Parceiro de Negócios/Parceiro de Negócios.md",
+    "Dados Mestres/Classificação de dados mestres.md",
+    "WhatsApp Image 2026-01-12 at 20.43.58 (2).jpeg",
+    "Parceiro de Negócios",
+    "Dados Mestres/Dados Mestres x Dados Transacionais.md",
+    "WhatsApp Image 2026-01-12 at 20.44.00 (2).jpeg",
+    "Untitled.base",
+    "WhatsApp Image 2026-01-12 at 20.44.00 (1).jpeg",
     "Dados Mestres",
     "WhatsApp Image 2026-01-12 at 20.44.01 (2).jpeg",
     "Entry/Modulo Bill (Faturamento e impressão).md",
