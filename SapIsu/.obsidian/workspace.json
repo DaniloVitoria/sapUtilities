@@ -8,16 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "23566e79be643f7a",
+            "id": "afcb3ab2e762f82e",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Mapa mental.canvas",
                 "viewState": {
-                  "x": 774.4961005511188,
-                  "y": -1422.0778457182219,
-                  "zoom": -1
+                  "x": -533.11893183559,
+                  "y": -1375.8153907039405,
+                  "zoom": -1.6487991775909987
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -25,66 +25,31 @@
             }
           },
           {
-            "id": "2007a74c6491795a",
+            "id": "37eb2df922171de7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dados Mestres/Classificação de dados mestres.md",
+                "file": "Entry/Módulo CRM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Classificação de dados mestres"
+              "title": "Módulo CRM"
             }
           },
           {
-            "id": "2e3bde0239dcd872",
+            "id": "987edfeedc7224a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dados Mestres/Dados mestres.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dados mestres"
-            }
-          },
-          {
-            "id": "6c63f1205626845e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Entry/Modulo FI-CA (Arrecadação e cobrança).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Modulo FI-CA (Arrecadação e cobrança)"
-            }
-          },
-          {
-            "id": "9e1f14b4104a3aba",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Mapa mental.canvas",
-                "viewState": {
-                  "x": 1079.6155231272464,
-                  "y": -1067.7238702095806,
-                  "zoom": -1.6247452172335626
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Mapa mental"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -246,15 +211,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "9e1f14b4104a3aba",
+  "active": "37eb2df922171de7",
   "lastOpenFiles": [
-    "Entry/Modulo FI-CA (Arrecadação e cobrança).md",
+    "WhatsApp Image 2026-01-13 at 18.47.26 (1).jpeg",
     "Entry/Modulos do Sap.md",
+    "Dados Mestres/Classificação de dados mestres.md",
     "Mapa mental.canvas",
+    "Entry/Módulo CRM.md",
+    "WhatsApp Image 2026-01-13 at 18.47.25.jpeg",
+    "WhatsApp Image 2026-01-13 at 18.47.25 (1).jpeg",
+    "Parceiro de Negócios/Parceiro de Negócios.md",
+    "Parceiro de Negócios/Parceiro de Negócios - Endereços.md",
+    "WhatsApp Image 2026-01-12 at 20.43.58 (1).jpeg",
+    "WhatsApp Image 2026-01-12 at 20.43.58.jpeg",
+    "WhatsApp Image 2026-01-12 at 20.44.00 1.jpeg",
+    "Entry/Modulo FI-CA (Arrecadação e cobrança).md",
+    "WhatsApp Image 2026-01-12 at 20.44.00.jpeg",
     "Dados Mestres/Dados mestres.md",
     "WhatsApp Image 2026-01-12 at 20.43.58 (2) 1.jpeg",
-    "Parceiro de Negócios/Parceiro de Negócios.md",
-    "Dados Mestres/Classificação de dados mestres.md",
     "WhatsApp Image 2026-01-12 at 20.43.58 (2).jpeg",
     "Parceiro de Negócios",
     "Dados Mestres/Dados Mestres x Dados Transacionais.md",
@@ -262,7 +236,6 @@
     "Untitled.base",
     "WhatsApp Image 2026-01-12 at 20.44.00 (1).jpeg",
     "Dados Mestres",
-    "WhatsApp Image 2026-01-12 at 20.44.01 (2).jpeg",
     "Entry/Modulo Bill (Faturamento e impressão).md",
     "Welcome.md",
     "Entry"

@@ -7,7 +7,10 @@
 		{"id":"5e43df8a29af2717","type":"file","file":"Dados Mestres/Classificação de dados mestres.md","x":1250,"y":-2270,"width":940,"height":960},
 		{"id":"7c38f49d5a9b185a","type":"file","file":"Dados Mestres/Dados Mestres x Dados Transacionais.md","x":2560,"y":-2080,"width":1040,"height":480},
 		{"id":"c4d40b9795cbba24","type":"file","file":"Entry/Modulos do Sap.md","x":-605,"y":-1654,"width":550,"height":494},
-		{"id":"882a75e97b259bac","type":"file","file":"Parceiro de Negócios/Parceiro de Negócios.md","x":-1760,"y":-2280,"width":840,"height":800}
+		{"id":"882a75e97b259bac","type":"file","file":"Parceiro de Negócios/Parceiro de Negócios.md","x":-1760,"y":-2280,"width":840,"height":800},
+		{"id":"0d6cdc11fdfb26c8","type":"file","file":"WhatsApp Image 2026-01-12 at 20.44.00 1.jpeg","x":-1740,"y":-3040,"width":800,"height":600},
+		{"id":"361d2a921433607b","type":"file","file":"WhatsApp Image 2026-01-12 at 20.43.58.jpeg","x":-2880,"y":-3054,"width":900,"height":1200},
+		{"id":"9c260f0c88d38df1","type":"file","file":"Parceiro de Negócios/Parceiro de Negócios - Endereços.md","x":-2880,"y":-1520,"width":900,"height":877}
 	],
 	"edges":[
 		{"id":"803fb958560f6647","fromNode":"bc0b91e39c7eca25","fromSide":"bottom","toNode":"c4d40b9795cbba24","toSide":"top"},
@@ -16,6 +19,9 @@
 		{"id":"0a8d6c40b9b33fa5","fromNode":"bc0b91e39c7eca25","fromSide":"right","toNode":"43a40e381a1283f8","toSide":"left"},
 		{"id":"1bc880f85545ad7c","fromNode":"43a40e381a1283f8","fromSide":"right","toNode":"5e43df8a29af2717","toSide":"left"},
 		{"id":"0716b5e43640a679","fromNode":"5e43df8a29af2717","fromSide":"right","toNode":"7c38f49d5a9b185a","toSide":"left"},
-		{"id":"9ba257572b20c493","fromNode":"bc0b91e39c7eca25","fromSide":"left","toNode":"882a75e97b259bac","toSide":"right"}
+		{"id":"9ba257572b20c493","fromNode":"bc0b91e39c7eca25","fromSide":"left","toNode":"882a75e97b259bac","toSide":"right"},
+		{"id":"a6122c2d5bd9d543","fromNode":"882a75e97b259bac","fromSide":"top","toNode":"0d6cdc11fdfb26c8","toSide":"bottom"},
+		{"id":"7ea53de1d36ca324","fromNode":"882a75e97b259bac","fromSide":"left","toNode":"361d2a921433607b","toSide":"right"},
+		{"id":"e3436b300723e6b1","fromNode":"882a75e97b259bac","fromSide":"left","toNode":"9c260f0c88d38df1","toSide":"right"}
 	]
 }
