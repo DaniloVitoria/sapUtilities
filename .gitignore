@@ -1,23 +1,18 @@
 
-.obsidian/workspace.json
+SapIsu/.obsidian/workspace.json
+SapIsu/.obsidian/appearance.json
 
 
-.obsidian/appearance.json
-
-
-.obsidian/cache/
-.obsidian/plugins/*/data.json
-.obsidian/plugins/*/cache.json
-
-
-.obsidian/plugins/*/history.json
-.obsidian/plugins/*/workspace
-.obsidian/plugins/*/workspace.json
+SapIsu/.obsidian/cache/
+SapIsu/.obsidian/plugins/*/data.json
+SapIsu/.obsidian/plugins/*/cache.json
+SapIsu/.obsidian/plugins/*/history.json
+SapIsu/.obsidian/plugins/*/workspace
+SapIsu/.obsidian/plugins/*/workspace.json
 
 
 .DS_Store
 Thumbs.db
-
 
 *.log
 
